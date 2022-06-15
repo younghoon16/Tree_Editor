@@ -8,7 +8,7 @@
  &emsp;&emsp;**1.编辑模式**
 
  &emsp;&emsp;&emsp;点击开始界面的“编辑”按钮进入编辑模式。
- ![图例1](https://github.com/younghoon16/demo_img/blob/main/TreeEditor1.png)
+ ![图例1](https://raw.githubusercontent.com/younghoon16/demo_img/main/TreeEditor1.png)
  
 
 
